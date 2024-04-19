@@ -1,0 +1,24 @@
+{
+  "common": {
+    "email": "Email"
+  },
+  "login": {
+    "login_head": "Để xem chi tiết trang web này, vui lòng đăng nhập vào tài khoản của bạn.",
+    "success": "Đăng nhập thành công!",
+    "welcome": "Chào mừng trở lại!",
+    "log": "Đăng nhập để thiết kế Website Pro",
+    "sign_google": "Đăng nhập với Google",
+    "contact": "Đăng nhập Google có sẵn. Các thành viên miễn phí có thể duyệt và tải xuống, trong khi các thành viên Pro có thể đặt lại mật khẩu để truy cập tài khoản của họ. Bạn cần trợ giúp đăng nhập?",
+    "contact_us": "Liên hệ",
+    "or": "Hoặc",
+    "password": "Mật khẩu",
+    "forgot_password": "Quên mật khẩu?",
+    "reset_password": "Đặt lại mật khẩu",
+    "sign_in": "Đăng nhập tài khoản Pro",
+    "sign_up_pro": "Muốn nâng cấp lên Pro?",
+    "sign_up": "Đăng ký",
+    "pass_required": "Vui lòng nhập mật khẩu",
+    "email_required": "Vui lòng nhập email",
+    "email_invalid": "Email không hợp lệ"
+  }
+}

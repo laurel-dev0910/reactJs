@@ -1,0 +1,24 @@
+{
+  "common": {
+    "email": "Email"
+  },
+  "login": {
+    "login_head": "To view this web in detail, please sign in to your account.",
+    "success": "Login success!",
+    "welcome": "Welcome back!",
+    "log": "Log in to design Pro Website",
+    "sign_google": "Sign in with Google",
+    "contact": "Google login is available. Free members can browse and download, while Pro members can reset their password to access their accounts. Need help logging in?",
+    "contact_us": "Contact us",
+    "or": "or",
+    "password": "Password",
+    "forgot_password": "Forgot password?",
+    "reset_password": "Reset password",
+    "sign_in": "Sign In to my Pro Account",
+    "sign_up_pro": "Want to upgrade to Pro?",
+    "sign_up": "Sign Up",
+    "pass_required": "Password is required",
+    "email_required": "Email is required",
+    "email_invalid": "Email is invalid"
+  }
+}
