@@ -1,4 +1,4 @@
-# This is the ReactJs project source base using TailwindCss + Authentication + Refresh token + Auto cancel request on route change
+# This is the ReactJs project source base using TailwindCss + Authentication + Refresh token
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
